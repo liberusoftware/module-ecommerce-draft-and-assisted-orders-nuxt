@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-draft-and-assisted-orders-nuxt",
+  "capabilityKey": "planned:ecommerce:draft-and-assisted-orders",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-draft-and-assisted-orders-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/draft-and-assisted-orders.md",
+  "presentationPlan": "projects/ecommerce/nuxt/draft-and-assisted-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
